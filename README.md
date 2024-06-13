@@ -11,6 +11,7 @@ popular libraries for writing and optimizing code
 
 <div align="center">
     🔭 I’m currently working on the information system of university
+    <br/>
     🌱 I’m currently learning Next.js and Type Script
 </div>
 
